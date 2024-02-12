@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- I’m currently learning **Full Stack Web Development & DSA**dafasdf
+- I’m currently learning **Full Stack Web Development & DSA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
